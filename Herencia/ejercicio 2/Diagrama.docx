@@ -1,0 +1,15 @@
+Electrodomestico
+- precio_base
+- color
+- consumo
+- peso
++ precioFinal()
+
+Lavadora : Electrodomestico
+- carga
++ precioFinal()
+
+Television : Electrodomestico
+- resolucion
+- sintonizador
++ precioFinal()
